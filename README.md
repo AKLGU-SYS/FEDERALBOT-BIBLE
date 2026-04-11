@@ -26,12 +26,12 @@ FED operates semi-automatically — it acts on its own, logs everything, and let
 
 ### 6 Defense Sections
 
-- **S01 — Invasion Control** — Mass join detection, captcha verification (4 modes), account fingerprinting, VPN/proxy blocking, quarantine gate
-- **S02 — Structure Guard** — Anti-nuke protection, role/channel monitoring, server snapshots with instant rollback, bot guard
-- **S03 — Content Sentinel** — Anti-spam with progressive heat algorithm, phishing link detection, file scanning, mention/reaction spam protection
-- **S04 — Ghost Hunter** — Selfbot detection, coordination analysis, behavioral pattern recognition, suspicion scoring
-- **S05 — Phantom Net** — Webhook abuse prevention, token leak detection, bot impersonation alerts, C2 pattern detection
-- **S06 — Command Center** — Lockdown, panic mode, incident reporting, full audit trail, member recovery
+- **S01 — Homeland Security** — Mass join detection, captcha verification (4 modes), account fingerprinting, VPN/proxy blocking, quarantine gate
+- **S02 — Counter-Terrorism Unit** — Anti-nuke protection, role/channel monitoring, server snapshots with instant rollback, bot guard
+- **S03 — Content Police** — Anti-spam with progressive heat algorithm, phishing link detection, file scanning, mention/reaction spam protection
+- **S04 — Criminal Intelligence** — Selfbot detection, coordination analysis, behavioral pattern recognition, suspicion scoring
+- **S05 — Covert Operations** — Webhook abuse prevention, token leak detection, bot impersonation alerts, C2 pattern detection
+- **S06 — Command & Control** — Lockdown, panic mode, incident reporting, full audit trail, member recovery
 
 ### Moderation Tools
 
